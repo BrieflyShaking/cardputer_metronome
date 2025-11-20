@@ -1,7 +1,6 @@
 # M5Stack Cardputer Metronome 1.0 🎶
 
 Custom firmware that transforms the **M5Stack Cardputer V1.1** into a fully functional metronome.  
-Designed for musicians who want a portable, visual practice tool.
 
 ---
 
@@ -14,7 +13,7 @@ Designed for musicians who want a portable, visual practice tool.
 
 ---
 
-## 🎹 Key Controls
+##  Key Controls
 - **W / S** → Increase / Decrease BPM  
 - **A / D** → Adjust number of beats  
 - **Q / E** → Change bar length  
@@ -25,5 +24,3 @@ Designed for musicians who want a portable, visual practice tool.
 ## Download
 Grab the latest release here:  
 [Releases](../../releases)
-
-Download the `.bin` file from the release page.

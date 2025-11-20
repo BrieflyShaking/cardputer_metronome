@@ -1,4 +1,4 @@
-# M5Stack Cardputer Metronome 1.0 🎶
+# M5Stack Cardputer Metronome 1.0 🎶 CARDTRONOME
 
 Custom firmware that transforms the **M5Stack Cardputer V1.1** into a fully functional metronome.  
 

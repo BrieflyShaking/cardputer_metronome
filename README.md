@@ -24,6 +24,6 @@ Custom firmware that transforms the **M5Stack Cardputer V1.1** into a fully func
 ---
 
 ## 📦 Download
-Get the latest release: [CARDTRONOME v1.1](https
+Get the latest release: [CARDTRONOME v1.1]
 
 [Releases](../../releases)
